@@ -1,0 +1,20 @@
+body{
+background-color:rgb(234, 236, 238);}
+
+
+
+
+.services{
+background-color: rgb(236, 232, 227);
+text-align: center;
+}
+
+.service{
+    float: left;
+    width: 33%;
+    background-color: rgb(255, 255, 255);
+}
+
+.clear{
+    clear: left;
+}
